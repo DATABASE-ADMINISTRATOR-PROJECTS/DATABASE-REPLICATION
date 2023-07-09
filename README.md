@@ -1,4 +1,4 @@
-# REPLICATION
+# DATABASE REPLICATION
 Replication in SQL Server provides a flexible and customizable solution for data distribution and synchronization
 
 ![Replication](https://github.com/DATABASE-ADMINISTRATOR-PROJECTS/REPLICATION/assets/100750844/0dd6669e-47a8-4ad8-806d-e45cc482746d)
